@@ -1,0 +1,3 @@
+storage gcs {
+    bucket-name {$CADDY_BUCKET}
+}
